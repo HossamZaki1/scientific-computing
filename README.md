@@ -1,2 +1,2 @@
 # scientific-computing
-exercises on winter semester 2021/2022
+Exercise Solutiins on winter semester 2021/2022
